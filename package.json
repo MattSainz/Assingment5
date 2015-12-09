@@ -1,0 +1,15 @@
+{
+  "name": "yelp",
+  "version": "1.0.0",
+  "description": "d3 for design class",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1"
+  }
+}
